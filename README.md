@@ -1,3 +1,8 @@
+> **foxnaim** · Многопользовательская система задач и тикетов для проектов Django с импортом CSV
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия BSD-3-Clause сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # django-todo
 
 django-todo is a pluggable, multi-user, multi-group task management and
